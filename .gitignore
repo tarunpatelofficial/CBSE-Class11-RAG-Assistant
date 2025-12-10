@@ -1,0 +1,5 @@
+.venv
+Modelfiletwo
+models
+vectorstore
+__pycache__/
